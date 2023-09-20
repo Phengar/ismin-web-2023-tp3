@@ -1,0 +1,14 @@
+[
+    {
+        "isbn": "978-2081510437",
+        "title": "La Cantatrice chauve",
+        "author": "Ionesco",
+        "date": "1950"
+    },
+    {
+        "isbn": "12-1234567890",
+        "title": "La grand Prince",
+        "author": "Moi",
+        "date": "2023"
+    }
+]
